@@ -1,7 +1,7 @@
 Add users from a telegram group to another group you own
 Disclaimer: Use wisely.
 
-HOW TO USE:
+HOW TO USE:  
 -go to my https://core.telegram.org/api/obtaining_api_id#obtaining-api-id and follow instructions ('Obtaining api_id') to create api   
 -Login and create API  
 -rename config_mock.py to config.py  
